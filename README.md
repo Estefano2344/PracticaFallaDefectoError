@@ -1,4 +1,4 @@
-# Practica Falla, Defecto y Error
+# Tarea Falla, Defecto y Error
 ---
 # Módulo de Inicio de Sesión en Python
 
