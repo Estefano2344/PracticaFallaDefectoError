@@ -20,5 +20,5 @@ Este taller implementa un sistema de inicio de sesión con 3 intentos. Se incluy
 ## Cómo usar
 
 ```bash
-python login_module.py
+python Tarea5FallaDefectoError.py
 
