@@ -7,10 +7,10 @@ Este taller implementa un sistema de inicio de sesión con 3 intentos. Se incluy
 ## Integrantes del grupo
 
 - Estefano Proaño
-- Sbastian Guerra
+- Sebastian Guerra
 - Anthony Morales
 - Jefferson Chileno
-- Damarias Suquillo
+- Damaris Suquillo
 
 ## Requisitos funcionales
 
