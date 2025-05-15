@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 
 # login_module.py
-# Autor: Tefo
 # Este código implementa un módulo de inicio de sesión con dos fallas intencionales
 # para ejemplificar los conceptos de error, defecto y falla en testing de software.
 
