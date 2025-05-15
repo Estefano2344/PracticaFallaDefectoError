@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 
 # login_module.py
+# autores: grupo 5
 # Este código implementa un módulo de inicio de sesión con dos fallas intencionales
 # para ejemplificar los conceptos de error, defecto y falla en testing de software.
 
