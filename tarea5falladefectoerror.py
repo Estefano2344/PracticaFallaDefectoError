@@ -9,8 +9,8 @@ import getpass
 # Diccionario de usuarios simulados
 usuarios = {
     "tefo": "1234",
-    "ana": "abcd",
-    "juan": "admin"
+    "sebas": "abcd",
+    "jeff": "admin"
 }
 
 def iniciar_sesion():
