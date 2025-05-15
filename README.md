@@ -2,12 +2,15 @@
 ---
 # Módulo de Inicio de Sesión en Python
 
-Este proyecto implementa un sistema de inicio de sesión con 3 intentos. Se incluyen comentarios explicando los conceptos de defecto, error y fallo con ejemplos reales en el código.
+Este taller implementa un sistema de inicio de sesión con 3 intentos. Se incluyen comentarios explicando los conceptos de defecto, error y fallo con ejemplos reales en el código.
 
 ## Integrantes del grupo
 
-- Tefo (nombre completo aquí)
-- [Nombre de los otros integrantes]
+- Estefano Proaño
+- Sbastian Guerra
+- Anthony Morales
+- Jefferson Chileno
+- Damarias Suquillo
 
 ## Requisitos funcionales
 
